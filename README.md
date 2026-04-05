@@ -76,7 +76,7 @@ The plot below shows the distribution of spam and ham messages in the dataset.
 
 The dataset was split into **training and testing sets** using an **80-20 split**.
 
-Text data was converted into numerical features using **TF-IDF Vectorization**.
+Text data was converted into numerical features by using **TF-IDF Vectorization**.
 
 A **Support Vector Machine (SVM)** with a **linear kernel** was used to train the model.
 
