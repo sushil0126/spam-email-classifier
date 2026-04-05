@@ -139,16 +139,17 @@ spam_email_classifier.pkl
 
 ## Project Structure
 
+```text
 sms-spam-detection
 │
 ├── image
 │   ├── LabelDistribution.png
 │   └── cmheatmap.png
 │
+├── README.md
 ├── sms_spam.csv
-├── spam-classifier.ipynb
-├── spamemailclassifier.pkl
-└── README.md
+├── spamclassifier.ipynb
+└── spamemailclassifier.pkl
 
 ---
 
