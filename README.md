@@ -139,7 +139,6 @@ spam_email_classifier.pkl
 
 ## Project Structure
 
-```text
 sms-spam-detection
 │
 ├── image
